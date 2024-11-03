@@ -67,6 +67,7 @@ h2{
 .obj_list_box {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
+    --line-thickness:  0.022vw solid #9e9e9e;
 }
 
 .sticker {
@@ -75,7 +76,8 @@ h2{
     background-repeat: no-repeat;
     /* width: 8.07vw; */
     height: 8.07vw;
-    border: 0.022vw solid #9e9e9e; 
+    /* border: 0.022vw solid #9e9e9e;  */
+
     /* -> gap 에 border를 넣을수 잇나? */
 }
 
