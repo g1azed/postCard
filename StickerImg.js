@@ -1,0 +1,73 @@
+
+import Sticker_BL1 from '../assets/sticker/BrandLogo/Sticker_BL1.png'
+import Sticker_BL2 from '../assets/sticker/BrandLogo/Sticker_BL2.png'
+import Sticker_BL3 from '../assets/sticker/BrandLogo/Sticker_BL3.png'
+import Sticker_BL4 from '../assets/sticker/BrandLogo/Sticker_BL4.png'
+import Sticker_BL5 from '../assets/sticker/BrandLogo/Sticker_BL5.png'
+import Sticker_BL6 from '../assets/sticker/BrandLogo/Sticker_BL6.png'
+
+import Ill_1 from '../assets/sticker/Illust/Ill_1.png'
+import Ill_2 from '../assets/sticker/Illust/Ill_2.png'
+import Ill_3 from '../assets/sticker/Illust/Ill_3.png'
+import Ill_4 from '../assets/sticker/Illust/Ill_4.png'
+import Ill_5 from '../assets/sticker/Illust/Ill_5.png'
+import Ill_6 from '../assets/sticker/Illust/Ill_6.png'
+import Ill_7 from '../assets/sticker/Illust/Ill_7.png'
+import Ill_8 from '../assets/sticker/Illust/Ill_8.png'
+import Ill_9 from '../assets/sticker/Illust/Ill_9.png'
+import Ill_10 from '../assets/sticker/Illust/Ill_10.png'
+import Ill_11 from '../assets/sticker/Illust/Ill_11.png'
+import Ill_12 from '../assets/sticker/Illust/Ill_12.png'
+import Ill_13 from '../assets/sticker/Illust/Ill_13.png'
+import Ill_14 from '../assets/sticker/Illust/Ill_14.png'
+import Ill_15 from '../assets/sticker/Illust/Ill_15.png'
+import Ill_16 from '../assets/sticker/Illust/Ill_16.png'
+import Ill_17 from '../assets/sticker/Illust/Ill_17.png'
+import Ill_18 from '../assets/sticker/Illust/Ill_18.png'
+import Ill_B1 from '../assets/sticker/Illust/Ill_B1.png'
+import Ill_B2 from '../assets/sticker/Illust/Ill_B2.png'
+import Ill_B3 from '../assets/sticker/Illust/Ill_B3.png'
+
+import BodyTp_1 from '../assets/sticker/BodyTp/bodyTp_1.png'
+import BodyTp_2 from '../assets/sticker/BodyTp/bodyTp_2.png'
+import BodyTp_3 from '../assets/sticker/BodyTp/bodyTp_3.png'
+import BodyTp_4 from '../assets/sticker/BodyTp/bodyTp_4.png'
+import BodyTp_5 from '../assets/sticker/BodyTp/bodyTp_5.png'
+import BodyTp_6 from '../assets/sticker/BodyTp/bodyTp_6.png'
+import BodyTp_7 from '../assets/sticker/BodyTp/bodyTp_7.png'
+import BodyTp_8 from '../assets/sticker/BodyTp/bodyTp_8.png'
+import BodyTp_9 from '../assets/sticker/BodyTp/bodyTp_9.png'
+
+import HeadTp_1 from '../assets/sticker/HeadTp/HeadTp_1.png'
+import HeadTp_2 from '../assets/sticker/HeadTp/HeadTp_2.png'
+import HeadTp_3 from '../assets/sticker/HeadTp/HeadTp_3.png'
+import HeadTp_4 from '../assets/sticker/HeadTp/HeadTp_4.png'
+import HeadTp_5 from '../assets/sticker/HeadTp/HeadTp_5.png'
+import HeadTp_6 from '../assets/sticker/HeadTp/HeadTp_6.png'
+
+import Drawing_1 from '../assets/sticker/drawing/drawing_1.png'
+import Drawing_2 from '../assets/sticker/drawing/drawing_2.png'
+import Drawing_3 from '../assets/sticker/drawing/drawing_3.png'
+import Drawing_4 from '../assets/sticker/drawing/drawing_4.png'
+import Drawing_5 from '../assets/sticker/drawing/drawing_5.png'
+import Drawing_6 from '../assets/sticker/drawing/drawing_6.png'
+import Drawing_7 from '../assets/sticker/drawing/drawing_7.png'
+import Drawing_8 from '../assets/sticker/drawing/drawing_8.png'
+import Drawing_9 from '../assets/sticker/drawing/drawing_9.png'
+import Drawing_10 from '../assets/sticker/drawing/drawing_10.png'
+import Drawing_11 from '../assets/sticker/drawing/drawing_11.png'
+import Drawing_12 from '../assets/sticker/drawing/drawing_12.png'
+import Drawing_13 from '../assets/sticker/drawing/drawing_13.png'
+import Drawing_14 from '../assets/sticker/drawing/drawing_14.png'
+import Drawing_15 from '../assets/sticker/drawing/drawing_15.png'
+import Drawing_16 from '../assets/sticker/drawing/drawing_16.png'
+import Drawing_17 from '../assets/sticker/drawing/drawing_17.png'
+import Drawing_18 from '../assets/sticker/drawing/drawing_18.png'
+
+export {
+    Sticker_BL1, Sticker_BL2, Sticker_BL3, Sticker_BL4, Sticker_BL5, Sticker_BL6,
+    Drawing_1, Drawing_2, Drawing_3, Drawing_4, Drawing_5, Drawing_6, Drawing_7, Drawing_8, Drawing_9, Drawing_10, Drawing_11, Drawing_12, Drawing_13, Drawing_14, Drawing_15, Drawing_16, Drawing_17, Drawing_18,
+    Ill_1 , Ill_2 ,Ill_3 ,Ill_4 ,Ill_5 ,Ill_6 ,Ill_7 ,Ill_8 ,Ill_9 ,Ill_10,Ill_11,Ill_12,Ill_13,Ill_14,Ill_15,Ill_16,Ill_17,Ill_18,Ill_B1,Ill_B2,Ill_B3,
+    BodyTp_1 ,BodyTp_2, BodyTp_3, BodyTp_4, BodyTp_5, BodyTp_6, BodyTp_7, BodyTp_8, BodyTp_9,
+    HeadTp_1, HeadTp_2, HeadTp_3, HeadTp_4, HeadTp_5, HeadTp_6
+}
