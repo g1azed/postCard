@@ -152,6 +152,8 @@
                 })
             }
             for(let i = 1; i <= 70; i++){
+                    // $('#box'+i).css("width","100px");
+                    // $('#box'+i).css("height","100px");
                 $('.box'+i).mousedown(function(){
                     var sticker = $('#box'+i).detach();
                     sticker.detach();
@@ -159,8 +161,8 @@
                     sticker.addClass('box');
                     $('#tmpImgDiv').append(sticker);
                     $('#box'+i).css("position","absolute");
-                    $('#box'+i).css("width","100px");
-                    $('#box'+i).css("height","100px");
+                    // $('#box'+i).css("width","100px");
+                    // $('#box'+i).css("height","100px");
                     $('#box'+i).css("left","100px");
                     $('#box'+i).removeClass('.sticker');
                 })
