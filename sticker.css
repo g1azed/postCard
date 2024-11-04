@@ -34,22 +34,6 @@ section {
     position: relative;
 }
 
-#tmpImgDiv {
-    position: fixed;
-    right: 5.67vw;
-    width: 33.125vw;
-    height: 38.54vw;
-    background-color: #f4f4f4;
-    overflow: hidden;
-}
-
-.zone {
-    width: 33.125vw;
-    margin-top: -60px;
-    position: fixed;
-    right: 0;
-
-}
 
 h2{
     background-color: #FD4525;
@@ -87,11 +71,31 @@ h2{
 #box25, #box26, #box27{
     height: 16.14vw;
 }
+.wrap{
+    position: fixed;
+    top: 8.8vw; right: 4vw;
+}
+
+#tmpImgDiv {
+    /* position: fixed;
+    right: 5.67vw; */
+    width: 33.125vw;
+    height: 38.54vw;
+    background-color: #faf4f4;
+    overflow: hidden;
+}
+
+.zone {
+    width: 33.125vw;
+    margin-top: -60px;
+    position: fixed;
+    right: 0;
+
+}
+
 
 .btn_wrap{
-    position: fixed;
-    bottom: 17vw;
-    right: 5.625vw;
+    margin-top: 1.92vw;
     display: flex;
     gap: 1.45vw;
 }
